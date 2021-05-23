@@ -9,3 +9,5 @@ Looking at the Annual precipitation we have a few peaks around November of 2016 
 Exploratory Station Analysis:
 There are 9 total stations
 The most active station is USC00519281.
+![image](https://user-images.githubusercontent.com/78578889/119244064-7ec3ad00-bb21-11eb-8a15-68130f0190fe.png)
+
