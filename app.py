@@ -127,7 +127,7 @@ def tobs_by_date(start):
         query_dict["date"] = date
         query_dict["tobs"] = tobs
 
-    for date in range(query_dict['date']):
+    for date in query_dict:
 
         if start == query_dict['date']:
             return jsonify([query_dict['date'],
